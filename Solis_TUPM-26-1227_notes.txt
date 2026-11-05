@@ -1,5 +1,0 @@
-Student: Solis
-Student ID: TUPM-26-1227
-Seed digit: 7
-ID sum: 20
-Verification value: 107
