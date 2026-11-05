@@ -1,0 +1,9 @@
+{
+    "student_id": "TUPM-26-1227",
+    "records_processed": 1020,
+    "target_status_class": "5xx",
+    "records_in_target_class": 0,
+    "count_per_status_code": {},
+    "five_most_requested_urls": [],
+    "filtered_csv_file": "output\\filtered_5xx.csv"
+}
